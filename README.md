@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Portfolio
 
-> Description the project.
+> In this project, I am going to build my portfolio in a mobile version mode.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS3
 
 ## Live Demo (if available)
 

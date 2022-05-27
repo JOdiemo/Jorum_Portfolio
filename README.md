@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Portfolio
+# Portfolio - Jorum Odiemo
 
-> In this project, I am going to build my portfolio in a mobile version mode.
+> In this project, I am going to build my portfolio in a mobile skleton version mode.
 
 
 ## Built With
